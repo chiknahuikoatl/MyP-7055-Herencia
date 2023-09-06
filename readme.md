@@ -24,6 +24,6 @@ Una clase de cuarto nivel estará al final de la jerarquía y todas las clases d
 ## Puntuación
 
 * 0.4 Por implementar una clase de cuarto nivel.
-* 0.2 Por implementar una clase abstracta o interfaz de tercer, segundo o primer nivel.
+* 0.2 Por cada clase abstracta o interfaz de tercer, segundo o primer nivel que se implemente y utilice junto con su clase de cuarto nivel.
 
 Máximo se puede obtener un punto por alumno en este ejercicio.
